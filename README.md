@@ -32,3 +32,8 @@ https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg -->
    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"  width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"  width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"  width="40" height="40"/> </p>
+<hr>
+HTML5 ,CSS(SASS)
+JavaScript (Jquery, AJAX, OOP)
+RESTful API
+Angular( RxJS , TypeScript)
