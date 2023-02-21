@@ -6,7 +6,7 @@ I'm Serap from Turkey, and I do content on Design and Development.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerapErkan&theme=buefy&show_icons=true&hide=contribs,prs) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerapErkan&layout=compact&theme=buefy)](https://github.com/SerapErkan/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SerapErkan&layout=compact&theme=buefy)](https://github.com/SerapErkan/github-readme-stats)
 
  <a href="https://github.com/SerapErkan/react_training_app.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SerapErkan&theme=buefy&repo=react_training_app"/>
