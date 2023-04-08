@@ -31,9 +31,19 @@ https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg -->
    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"  width="60" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"  width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"  width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"  width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"  width="40" height="40"/> </p>
+<br>
 <hr>
 HTML5 ,CSS(SASS)
+<hr>
 JavaScript (Jquery, AJAX, OOP)
+<hr>
 RESTful API
-Angular( RxJS , TypeScript)
+<hr>
+Angular( RxJS ,Ngrx,TypeScript)
+<hr>
+React( Redux )
+<hr>
+Vue( Vuex, Nuxt)
+<hr>
